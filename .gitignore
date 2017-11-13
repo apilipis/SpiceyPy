@@ -35,8 +35,10 @@ docs/_build
 # python things
 *.egg-info*
 dist/
+build/
 .cache/
 __pycache__/
 spiceypy/__pycache__/
 spiceypy/utils/__pycache__/
 .eggs/
+*.whl
